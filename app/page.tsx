@@ -3,9 +3,9 @@ import banner from '../public/banner.svg';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-	title: 'Quality Products | Top Shelf Cannabis in Flint, MI',
+	title: 'Homesteader Template | An incredible egg stand',
 	description:
-		'Quality Products is a high-end cannabis provider serving the greater Flint, MI area. Powered by Donnovan Aleman. Website facilitated by Patrick Other (Pat).',
+		'An incredible egg provider serving the greater Flint, MI area. Powered by A Name. Website facilitated by Patrick Other (Pat).',
 	icons: { icon: '/favicon.ico' },
 };
 

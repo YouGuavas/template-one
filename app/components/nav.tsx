@@ -4,8 +4,7 @@ import styles from './nav.module.css';
 import Link from 'next/link';
 import Image from 'next/image';
 import { usePathname } from 'next/navigation';
-
-import potleaf from '../../public/icons/potleaf.svg';
+import routes from '../routes';
 
 import clsx from 'clsx';
 
@@ -35,17 +34,19 @@ function NavLink({ href, children }: NavLinkProps) {
 export default function Nav() {
 	return (
 		<nav
-			className={`${styles.myNavFull} py-1 px-1 bg-4 left flex fixed`}
+			className={`${styles.myNavFull} py-1 px-1 bg-4 left flex fixed center`}
 			id="menu-full"
 		>
 			<ul className={`flex no-deco`}>
-				<li>
-					<NavLink href="/">
-						<div className={`icon-container`}>
-							<Image src={potleaf.src} fill alt="Flag Icon" />
-						</div>
-					</NavLink>
-				</li>
+				{routes.map(({ name, path, image }) => (
+					<li key={path}>
+						<NavLink href={path}>
+							<div className={`icon-container`}>
+								<Image src={image.src} fill alt={`${name}`} />
+							</div>
+						</NavLink>
+					</li>
+				))}
 			</ul>
 		</nav>
 	);
