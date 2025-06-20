@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg1"
-   width="31.381556"
+   width="82.259224"
    height="47.507374"
-   viewBox="0 0 31.381556 47.507374"
+   viewBox="0 0 82.259224 47.507375"
    sodipodi:docname="banner.svg"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    inkscape:export-filename="semicartoonselfie.png"
@@ -29,8 +29,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4.072935"
-     inkscape:cx="7.9795037"
-     inkscape:cy="58.925566"
+     inkscape:cx="36.091909"
+     inkscape:cy="19.887379"
      inkscape:window-width="1392"
      inkscape:window-height="847"
      inkscape:window-x="0"
@@ -40,6 +40,34 @@
   <path
      id="path1"
      style="fill:#e6e4b0;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-     d="m 29.847666,20.004302 c 4.82929,14.25567 -4.85836,27.25306 -14.48586,27.25307 -9.6275096,0 -18.2545196,-12.81696 -13.9948296,-27.25307 3.87027,-13.11633 6.24541,-20.78936997 14.7313996,-19.64184997 7.50984,1.01551997 9.51174,7.13292997 13.74929,19.64184997 z"
+     d="m 57.837529,20.004302 c 4.82929,14.25567 -4.85836,27.25306 -14.48586,27.25307 -9.62751,0 -18.25452,-12.81696 -13.99483,-27.25307 3.87027,-13.1163298 6.24541,-20.78936997 14.7314,-19.64184997 7.50984,1.01551997 9.51174,7.13293017 13.74929,19.64184997 z"
      sodipodi:nodetypes="sssss" />
+  <rect
+     style="fill:#fefada;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:0;paint-order:stroke fill markers"
+     id="rect1"
+     width="81.759224"
+     height="15.713484"
+     x="0.25"
+     y="18.41424"
+     ry="0.28633273" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#e6e4b0;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:0;paint-order:stroke fill markers"
+     x="10.762947"
+     y="23.324703"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="10.762947"
+       y="23.324703" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#452001;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:0;paint-order:stroke fill markers"
+     x="41.453346"
+     y="28.235167"
+     id="text2"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="41.453346"
+       y="28.235167">Homestead Name</tspan></text>
 </svg>

@@ -1,7 +1,6 @@
 import { Inter } from 'next/font/google';
 import Head from 'next/head';
 import { ProviderWrapper } from './ThemeProviderWrapper'; // or from your UI library
-import Nav from './components/nav';
 
 import './globals.css';
 
@@ -23,10 +22,7 @@ export default function RootLayout({
 				/>
 			</Head>
 			<body className={`${inter.className} bg-5`}>
-				<ProviderWrapper>
-					<Nav />
-					{children}
-				</ProviderWrapper>
+				<ProviderWrapper>{children}</ProviderWrapper>
 			</body>
 		</html>
 	);

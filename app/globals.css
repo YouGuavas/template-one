@@ -13,11 +13,11 @@
 	font-family: sans-serif;
 }
 .default {
-	--color-1: rgb(20, 100, 20);
-	--color-2: white;
+	--color-1: rgb(2, 15, 2);
+	--color-2: rgb(15, 35, 5);
 	--color-3: rgb(220, 200, 100);
-	--color-4: rgb(65, 20, 65);
-	--color-5: rgb(250, 220, 250);
+	--color-4: rgb(240, 240, 170);
+	--color-5: rgb(240, 240, 190);
 	--color-6: white;
 
 	--style-font-1: 'Orbitron', 'Exo 2', sans-serif;
@@ -45,11 +45,11 @@
 
 @media (prefers-color-scheme: dark) {
 	.default {
-		--color-1: rgb(100, 200, 100);
-		--color-2: white;
+		--color-1: rgb(180, 180, 160);
+		--color-2: rgb(210, 210, 200);
 		--color-3: rgb(150, 150, 30);
-		--color-4: rgb(30, 20, 30);
-		--color-5: rgb(20, 10, 20);
+		--color-4: rgb(20, 30, 5);
+		--color-5: rgb(2, 15, 2);
 		--color-6: rgb(0, 0, 0);
 		--semi-transparent: 70%;
 		--medium-transparent: 55%;

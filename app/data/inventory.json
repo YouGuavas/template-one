@@ -1,0 +1,18 @@
+[
+	{
+		"item": "One Dozen Eggs",
+
+		"price": "$3"
+	},
+
+	{
+		"item": "Baked Goods",
+
+		"price": "$5"
+	},
+	{
+		"item": "Crafted Item",
+
+		"price": "$15"
+	}
+]
