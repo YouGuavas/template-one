@@ -87,15 +87,19 @@ export default function Home() {
 				</h2>
 				<p>
 					Placeholder text - a description of the people who operate the stand.
-					This is your chance to tell your story. Optionally, for a small fee, I
-					can cartoonize you, your animals, whatever. Go look at{' '}
+					This is your chance to tell your story. Optionally, for a small fee
+					($15 for simple, cute characters // $25 for stylized, heavily
+					personalized ones), I can cartoonize you, your animals, whatever. Go
+					look at{' '}
 					<Link
 						className="no-deco lowercase spaced"
 						href="https://patripples.com/character"
 					>
 						my character sheets
 					</Link>{' '}
-					for examples of the animation style I will use.
+					for examples of the base animation style I will use (please bear with
+					me - that page is unfinished, as I am working off my hotspot right
+					now).
 				</p>
 			</section>
 		</main>
