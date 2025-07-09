@@ -93,9 +93,9 @@ export default function Home() {
 					look at{' '}
 					<Link
 						className="no-deco lowercase spaced"
-						href="https://patripples.com/character"
+						href="https://patripples.com/characters"
 					>
-						my character sheets
+						my mythic dossiers
 					</Link>{' '}
 					for examples of the base animation style I will use (please bear with
 					me - that page is unfinished, as I am working off my hotspot right
